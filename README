@@ -1,0 +1,10 @@
+An older project for comparing search efficiency of KD tree and PR tree.
+
+These are both trees used for searching in multiple dimetions, and the visual representation is made in 2D so the diffrences should become bigger as the number of dimetions increases.
+
+PR tree uses some very inefficiently implemented structures, witch should be improved.
+
+TODO: clean up the code a bit, and translate the comments to english.
+
+
+PS:Some of the code for KD tree is borrowed from a school book.
